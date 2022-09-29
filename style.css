@@ -649,7 +649,7 @@ footer .container p{
 
 /* Responsivo */
 
-@media screen and (max-width: 922px){
+@media screen and (max-width: 1080px){
 
     .text-gd{
         font-size: 54px ;
@@ -698,7 +698,7 @@ footer .container p{
     .down{
         justify-content: space-between;
         flex-direction: column;
-        min-height: 600px;
+        min-height: 700px;
     }
 
     .box{
@@ -883,6 +883,13 @@ footer .container p{
 }
 
 @media screen and (max-width: 428px){
+    
+    header .right .imagem{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 228px){
     
     header .right .imagem{
         width: 80%;
