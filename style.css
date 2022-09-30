@@ -649,7 +649,7 @@ footer .container p{
 
 /* Responsivo */
 
-@media screen and (max-width: 1080px){
+@media screen and (max-width: 980px){
 
     .text-gd{
         font-size: 54px ;
